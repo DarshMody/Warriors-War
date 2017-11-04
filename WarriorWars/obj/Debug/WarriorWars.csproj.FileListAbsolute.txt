@@ -1,0 +1,6 @@
+c:\users\darkbound\documents\visual studio 2017\Projects1\WarriorWars\WarriorWars\bin\Debug\WarriorWars.exe.config
+c:\users\darkbound\documents\visual studio 2017\Projects1\WarriorWars\WarriorWars\bin\Debug\WarriorWars.exe
+c:\users\darkbound\documents\visual studio 2017\Projects1\WarriorWars\WarriorWars\bin\Debug\WarriorWars.pdb
+c:\users\darkbound\documents\visual studio 2017\Projects1\WarriorWars\WarriorWars\obj\Debug\WarriorWars.csprojResolveAssemblyReference.cache
+c:\users\darkbound\documents\visual studio 2017\Projects1\WarriorWars\WarriorWars\obj\Debug\WarriorWars.exe
+c:\users\darkbound\documents\visual studio 2017\Projects1\WarriorWars\WarriorWars\obj\Debug\WarriorWars.pdb
